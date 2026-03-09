@@ -1,0 +1,1 @@
+javascript:(function(){navigator.clipboard.readText().then((copiedText) => {window.location.replace(`https://doi-org.ezproxy.libraries.wright.edu/${copiedText}`);});}());
