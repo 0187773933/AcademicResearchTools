@@ -4,6 +4,8 @@
 // @version      1.0
 // @description  Redirects to WSU EZProxy
 // @match        https://www-webofscience-com.ezproxy.libraries.wright.edu/wos/woscc/full-record/*
+// @updateURL    https://github.com/0187773933/AcademicResearchTools/raw/refs/heads/master/webofscience-redirector.user.js
+// @downloadURL  https://github.com/0187773933/AcademicResearchTools/raw/refs/heads/master/webofscience-redirector.user.js
 // @run-at       document-end
 // @grant        none
 // ==/UserScript==

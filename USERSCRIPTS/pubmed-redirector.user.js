@@ -5,6 +5,8 @@
 // @description  Open major publisher links from PubMed automatically
 // @match        https://pubmed.ncbi.nlm.nih.gov/*
 // @match        https://pmc.ncbi.nlm.nih.gov/articles/*
+// @updateURL    https://github.com/0187773933/AcademicResearchTools/raw/refs/heads/master/pubmed-redirector.user.js
+// @downloadURL  https://github.com/0187773933/AcademicResearchTools/raw/refs/heads/master/pubmed-redirector.user.js
 // @run-at       document-end
 // @grant        none
 // ==/UserScript==
