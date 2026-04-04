@@ -2,7 +2,6 @@
 
 1. Deduplication : Zoplicate
 	- https://github.com/ChenglongMa/zoplicate
-2. asdf
 
 
 
@@ -17,6 +16,7 @@ mkdir -p ~/.config/sioyek
 touch ~/.config/sioyek/prefs_user.config
 nano ~/.config/sioyek/prefs_user.config
 ```
+
 
 
 ### Exists Server
