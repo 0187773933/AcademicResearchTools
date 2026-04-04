@@ -1,5 +1,12 @@
 # WSU Links
 
+
+## EZProxy
+
+- Force Relogin
+	- https://na08.alma.exlibrisgroup.com/view/action/uresolver.do?operation=resolveService&package_service_id=39677903320008506&institutionId=8506&customerId=8505
+- https://ezproxy.libraries.wright.edu/login
+
 ## SharePoint
 
 - https://outlook.office365.com/groups/wright.edu/wright-state-students-all/mail
