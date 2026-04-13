@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         arXiv HTML FORCE LIGHT MODE
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Enforce light mode on arxiv HTML pages regardless of ar5iv_theme
 // @match        https://arxiv.org/html/*
+// @match        https://arxiv-org.ezproxy.libraries.wright.edu/html/*
 // @grant        none
 // ==/UserScript==
 
