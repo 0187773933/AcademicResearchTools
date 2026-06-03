@@ -19,6 +19,9 @@ https://www.ncbi.nlm.nih.gov/research/pubtator3
 Google Scholar Labs
 https://scholar.google.com/scholar_labs/search
 
+Google NotbookLLM
+https://notebooklm.google.com
+
 Connected Papers
 https://www.connectedpapers.com
 
