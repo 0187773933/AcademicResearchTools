@@ -28,6 +28,10 @@ https://www.connectedpapers.com
 Semantic Scholar
 https://www.semanticscholar.org
 
+SLR Studio
+https://emerging-tech-lab.com
+https://slrstudio.online
+
 Elicit
 https://elicit.com
 
