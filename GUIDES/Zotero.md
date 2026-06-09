@@ -2,7 +2,8 @@
 
 1. Deduplication : Zoplicate
 	- https://github.com/ChenglongMa/zoplicate
-
+2. MetaData Fixer
+	- https://github.com/federicotorrielli/zotero-metadata-hunter
 
 
 ### PDF Reader
@@ -17,14 +18,6 @@ touch ~/.config/sioyek/prefs_user.config
 nano ~/.config/sioyek/prefs_user.config
 ```
 
+### Paper Reference Manager Addons
 
-
-### Exists Server
-
-https://github.com/0187773933/ZoteroExistsServer
-
-
-
-### Tools
-
-https://github.com/0187773933/ZoteroTools
+https://github.com/0187773933/PaperReferenceManagerAddons
